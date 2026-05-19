@@ -12,7 +12,7 @@
 
 - **Paper accepted:** May 1, 2026
 - **Code release:** May 18, 2026
-- **Dataset:** [Hugging Face Dataset](https://huggingface.co/datasets/EmbodiedCity/iWorld-Bench-Dataset)
+- **Dataset release**: May 19, 2026
 
 iWorldBench is a benchmark for evaluating camera-controllable video generation models. This release provides the evaluation code, packaged metadata, camera-trajectory resources, and reference inference adapters needed to run the benchmark.
 
