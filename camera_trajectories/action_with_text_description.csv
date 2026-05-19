@@ -1,0 +1,82 @@
+level,translation_id,rotation_id,input_control,is_plausible,translation_code_w_s_a_d,rotation_code_dy_dx,text_description
+0,0,0,none,true,"[0, 0, 0, 0]","[0.0, 0.0]",The camera's movement direction remains stationary (·). The rotation direction of the camera remains stationary (·).
+1,0,1,↑,true,"[0, 0, 0, 0]","[1.0, 0.0]",The camera tilts up (↑).
+1,0,2,↓,true,"[0, 0, 0, 0]","[-1.0, 0.0]",The camera tilts down (↓).
+1,0,3,→,true,"[0, 0, 0, 0]","[0.0, 1.0]",The camera pans to the right (→).
+1,0,4,←,true,"[0, 0, 0, 0]","[0.0, -1.0]",The camera pans to the left (←).
+1,1,0,W,true,"[1, 0, 0, 0]","[0.0, 0.0]",The camera pushes forward (W).
+1,2,0,S,true,"[0, 1, 0, 0]","[0.0, 0.0]",The camera pulls back (S).
+1,3,0,A,true,"[0, 0, 1, 0]","[0.0, 0.0]",The camera moves to the left (A).
+1,4,0,D,true,"[0, 0, 0, 1]","[0.0, 0.0]",The camera moves to the right (D).
+1,0,5,↑+→,true,"[0, 0, 0, 0]","[1.0, 1.0]",The camera tilts up and pans to the right (↑→).
+1,0,6,↑+←,true,"[0, 0, 0, 0]","[1.0, -1.0]",The camera tilts up and pans to the left (↑←).
+1,0,7,↓+→,true,"[0, 0, 0, 0]","[-1.0, 1.0]",The camera tilts down and pans to the right (↓→).
+1,0,8,↓+←,true,"[0, 0, 0, 0]","[-1.0, -1.0]",The camera tilts down and pans to the left (↓←).
+1,5,0,W+A,true,"[1, 0, 1, 0]","[0.0, 0.0]",The camera pushes forward and moves to the left (W+A).
+1,6,0,W+D,true,"[1, 0, 0, 1]","[0.0, 0.0]",The camera pushes forward and moves to the right (W+D).
+1,7,0,S+A,true,"[0, 1, 1, 0]","[0.0, 0.0]",The camera pulls back and moves to the left (S+A).
+1,8,0,S+D,true,"[0, 1, 0, 1]","[0.0, 0.0]",The camera pulls back and moves to the right (S+D).
+2,1,1,W+↑,true,"[1, 0, 0, 0]","[1.0, 0.0]",The camera pushes forward (W). The camera tilts up (↑).
+2,1,2,W+↓,false,"[1, 0, 0, 0]","[-1.0, 0.0]",The camera pushes forward (W). The camera tilts down (↓).
+2,1,3,W+→,true,"[1, 0, 0, 0]","[0.0, 1.0]",The camera pushes forward (W). The camera pans to the right (→).
+2,1,4,W+←,true,"[1, 0, 0, 0]","[0.0, -1.0]",The camera pushes forward (W). The camera pans to the left (←).
+2,2,1,S+↑,false,"[0, 1, 0, 0]","[1.0, 0.0]",The camera pulls back (S). The camera tilts up (↑).
+2,2,2,S+↓,false,"[0, 1, 0, 0]","[-1.0, 0.0]",The camera pulls back (S). The camera tilts down (↓).
+2,2,3,S+→,true,"[0, 1, 0, 0]","[0.0, 1.0]",The camera pulls back (S). The camera pans to the right (→).
+2,2,4,S+←,true,"[0, 1, 0, 0]","[0.0, -1.0]",The camera pulls back (S). The camera pans to the left (←).
+2,3,1,A+↑,false,"[0, 0, 1, 0]","[1.0, 0.0]",The camera moves to the left (A). The camera tilts up (↑).
+2,3,2,A+↓,false,"[0, 0, 1, 0]","[-1.0, 0.0]",The camera moves to the left (A). The camera tilts down (↓).
+2,3,3,A+→,true,"[0, 0, 1, 0]","[0.0, 1.0]",The camera moves to the left (A). The camera pans to the right (→).
+2,3,4,A+←,true,"[0, 0, 1, 0]","[0.0, -1.0]",The camera moves to the left (A). The camera pans to the left (←).
+2,4,1,D+↑,false,"[0, 0, 0, 1]","[1.0, 0.0]",The camera moves to the right (D). The camera tilts up (↑).
+2,4,2,D+↓,false,"[0, 0, 0, 1]","[-1.0, 0.0]",The camera moves to the right (D). The camera tilts down (↓).
+2,4,3,D+→,true,"[0, 0, 0, 1]","[0.0, 1.0]",The camera moves to the right (D). The camera pans to the right (→).
+2,4,4,D+←,true,"[0, 0, 0, 1]","[0.0, -1.0]",The camera moves to the right (D). The camera pans to the left (←).
+3,1,5,W+↑+→,true,"[1, 0, 0, 0]","[1.0, 1.0]",The camera pushes forward (W). The camera tilts up and pans to the right (↑→).
+3,1,6,W+↑+←,true,"[1, 0, 0, 0]","[1.0, -1.0]",The camera pushes forward (W). The camera tilts up and pans to the left (↑←).
+3,1,7,W+↓+→,false,"[1, 0, 0, 0]","[-1.0, 1.0]",The camera pushes forward (W). The camera tilts down and pans to the right (↓→).
+3,1,8,W+↓+←,false,"[1, 0, 0, 0]","[-1.0, -1.0]",The camera pushes forward (W). The camera tilts down and pans to the left (↓←).
+3,2,5,S+↑+→,false,"[0, 1, 0, 0]","[1.0, 1.0]",The camera pulls back (S). The camera tilts up and pans to the right (↑→).
+3,2,6,S+↑+←,false,"[0, 1, 0, 0]","[1.0, -1.0]",The camera pulls back (S). The camera tilts up and pans to the left (↑←).
+3,2,7,S+↓+→,false,"[0, 1, 0, 0]","[-1.0, 1.0]",The camera pulls back (S). The camera tilts down and pans to the right (↓→).
+3,2,8,S+↓+←,false,"[0, 1, 0, 0]","[-1.0, -1.0]",The camera pulls back (S). The camera tilts down and pans to the left (↓←).
+3,3,5,A+↑+→,false,"[0, 0, 1, 0]","[1.0, 1.0]",The camera moves to the left (A). The camera tilts up and pans to the right (↑→).
+3,3,6,A+↑+←,false,"[0, 0, 1, 0]","[1.0, -1.0]",The camera moves to the left (A). The camera tilts up and pans to the left (↑←).
+3,3,7,A+↓+→,false,"[0, 0, 1, 0]","[-1.0, 1.0]",The camera moves to the left (A). The camera tilts down and pans to the right (↓→).
+3,3,8,A+↓+←,false,"[0, 0, 1, 0]","[-1.0, -1.0]",The camera moves to the left (A). The camera tilts down and pans to the left (↓←).
+3,4,5,D+↑+→,false,"[0, 0, 0, 1]","[1.0, 1.0]",The camera moves to the right (D). The camera tilts up and pans to the right (↑→).
+3,4,6,D+↑+←,false,"[0, 0, 0, 1]","[1.0, -1.0]",The camera moves to the right (D). The camera tilts up and pans to the left (↑←).
+3,4,7,D+↓+→,false,"[0, 0, 0, 1]","[-1.0, 1.0]",The camera moves to the right (D). The camera tilts down and pans to the right (↓→).
+3,4,8,D+↓+←,false,"[0, 0, 0, 1]","[-1.0, -1.0]",The camera moves to the right (D). The camera tilts down and pans to the left (↓←).
+3,5,1,W+A+↑,false,"[1, 0, 1, 0]","[1.0, 0.0]",The camera pushes forward and moves to the left (W+A). The camera tilts up (↑).
+3,5,2,W+A+↓,false,"[1, 0, 1, 0]","[-1.0, 0.0]",The camera pushes forward and moves to the left (W+A). The camera tilts down (↓).
+3,5,3,W+A+→,true,"[1, 0, 1, 0]","[0.0, 1.0]",The camera pushes forward and moves to the left (W+A). The camera pans to the right (→).
+3,5,4,W+A+←,true,"[1, 0, 1, 0]","[0.0, -1.0]",The camera pushes forward and moves to the left (W+A). The camera pans to the left (←).
+3,6,1,W+D+↑,false,"[1, 0, 0, 1]","[1.0, 0.0]",The camera pushes forward and moves to the right (W+D). The camera tilts up (↑).
+3,6,2,W+D+↓,false,"[1, 0, 0, 1]","[-1.0, 0.0]",The camera pushes forward and moves to the right (W+D). The camera tilts down (↓).
+3,6,3,W+D+→,true,"[1, 0, 0, 1]","[0.0, 1.0]",The camera pushes forward and moves to the right (W+D). The camera pans to the right (→).
+3,6,4,W+D+←,true,"[1, 0, 0, 1]","[0.0, -1.0]",The camera pushes forward and moves to the right (W+D). The camera pans to the left (←).
+3,7,1,S+A+↑,false,"[0, 1, 1, 0]","[1.0, 0.0]",The camera pulls back and moves to the left (S+A). The camera tilts up (↑).
+3,7,2,S+A+↓,false,"[0, 1, 1, 0]","[-1.0, 0.0]",The camera pulls back and moves to the left (S+A). The camera tilts down (↓).
+3,7,3,S+A+→,true,"[0, 1, 1, 0]","[0.0, 1.0]",The camera pulls back and moves to the left (S+A). The camera pans to the right (→).
+3,7,4,S+A+←,true,"[0, 1, 1, 0]","[0.0, -1.0]",The camera pulls back and moves to the left (S+A). The camera pans to the left (←).
+3,8,1,S+D+↑,false,"[0, 1, 0, 1]","[1.0, 0.0]",The camera pulls back and moves to the right (S+D). The camera tilts up (↑).
+3,8,2,S+D+↓,false,"[0, 1, 0, 1]","[-1.0, 0.0]",The camera pulls back and moves to the right (S+D). The camera tilts down (↓).
+3,8,3,S+D+→,true,"[0, 1, 0, 1]","[0.0, 1.0]",The camera pulls back and moves to the right (S+D). The camera pans to the right (→).
+3,8,4,S+D+←,true,"[0, 1, 0, 1]","[0.0, -1.0]",The camera pulls back and moves to the right (S+D). The camera pans to the left (←).
+4,5,5,W+A+↑+→,false,"[1, 0, 1, 0]","[1.0, 1.0]",The camera pushes forward and moves to the left (W+A). The camera tilts up and pans to the right (↑→).
+4,5,6,W+A+↑+←,false,"[1, 0, 1, 0]","[1.0, -1.0]",The camera pushes forward and moves to the left (W+A). The camera tilts up and pans to the left (↑←).
+4,5,7,W+A+↓+→,false,"[1, 0, 1, 0]","[-1.0, 1.0]",The camera pushes forward and moves to the left (W+A). The camera tilts down and pans to the right (↓→).
+4,5,8,W+A+↓+←,false,"[1, 0, 1, 0]","[-1.0, -1.0]",The camera pushes forward and moves to the left (W+A). The camera tilts down and pans to the left (↓←).
+4,6,5,W+D+↑+→,false,"[1, 0, 0, 1]","[1.0, 1.0]",The camera pushes forward and moves to the right (W+D). The camera tilts up and pans to the right (↑→).
+4,6,6,W+D+↑+←,false,"[1, 0, 0, 1]","[1.0, -1.0]",The camera pushes forward and moves to the right (W+D). The camera tilts up and pans to the left (↑←).
+4,6,7,W+D+↓+→,false,"[1, 0, 0, 1]","[-1.0, 1.0]",The camera pushes forward and moves to the right (W+D). The camera tilts down and pans to the right (↓→).
+4,6,8,W+D+↓+←,false,"[1, 0, 0, 1]","[-1.0, -1.0]",The camera pushes forward and moves to the right (W+D). The camera tilts down and pans to the left (↓←).
+4,7,5,S+A+↑+→,false,"[0, 1, 1, 0]","[1.0, 1.0]",The camera pulls back and moves to the left (S+A). The camera tilts up and pans to the right (↑→).
+4,7,6,S+A+↑+←,false,"[0, 1, 1, 0]","[1.0, -1.0]",The camera pulls back and moves to the left (S+A). The camera tilts up and pans to the left (↑←).
+4,7,7,S+A+↓+→,false,"[0, 1, 1, 0]","[-1.0, 1.0]",The camera pulls back and moves to the left (S+A). The camera tilts down and pans to the right (↓→).
+4,7,8,S+A+↓+←,false,"[0, 1, 1, 0]","[-1.0, -1.0]",The camera pulls back and moves to the left (S+A). The camera tilts down and pans to the left (↓←).
+4,8,5,S+D+↑+→,false,"[0, 1, 0, 1]","[1.0, 1.0]",The camera pulls back and moves to the right (S+D). The camera tilts up and pans to the right (↑→).
+4,8,6,S+D+↑+←,false,"[0, 1, 0, 1]","[1.0, -1.0]",The camera pulls back and moves to the right (S+D). The camera tilts up and pans to the left (↑←).
+4,8,7,S+D+↓+→,false,"[0, 1, 0, 1]","[-1.0, 1.0]",The camera pulls back and moves to the right (S+D). The camera tilts down and pans to the right (↓→).
+4,8,8,S+D+↓+←,false,"[0, 1, 0, 1]","[-1.0, -1.0]",The camera pulls back and moves to the right (S+D). The camera tilts down and pans to the left (↓←).
