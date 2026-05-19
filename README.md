@@ -1,10 +1,10 @@
 # iWorldBench
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Project Page](https://img.shields.io/badge/Project-Page-blue?logo=googlechrome&logoColor=white)](https://iworld-bench.com/)
-[![arXiv](https://img.shields.io/badge/arXiv-2605.03941-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.03941)
-[![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-yellow?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/EmbodiedCity/iWorld-Bench-Dataset)
-[![Leaderboard](https://img.shields.io/badge/Leaderboard-HuggingFace-orange?logo=huggingface&logoColor=white)](https://huggingface.co/spaces/EmbodiedCity/iWorld-Bench)
+[![License](https://img.shields.io/badge/License-Apache%202.0-3a3a3a?labelColor=blue)](https://opensource.org/licenses/Apache-2.0)
+[![Project Page](https://img.shields.io/badge/Project-Page-3a3a3a?logo=googlechrome&logoColor=white&labelColor=blue)](https://iworld-bench.com/)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.03941-3a3a3a?logo=arxiv&logoColor=white&labelColor=b31b1b)](https://arxiv.org/abs/2605.03941)
+[![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-3a3a3a?logo=huggingface&logoColor=white&labelColor=yellow)](https://huggingface.co/datasets/EmbodiedCity/iWorld-Bench-Dataset)
+[![Leaderboard](https://img.shields.io/badge/Leaderboard-HuggingFace-3a3a3a?logo=huggingface&logoColor=white&labelColor=orange)](https://huggingface.co/spaces/EmbodiedCity/iWorld-Bench)
 
 **News:** Congratulations to the iWorldBench team! iWorldBench has been accepted to **ICML 2026**.
 
