@@ -1,4 +1,4 @@
-# iWorldBench
+<h1 align="center" style="font-size: 48px;">iWorldBench</h1>
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-3a3a3a?labelColor=blue)](https://opensource.org/licenses/Apache-2.0)
 [![Project Page](https://img.shields.io/badge/Project-Page-3a3a3a?logo=googlechrome&logoColor=white&labelColor=blue)](https://iworld-bench.com/)
