@@ -218,6 +218,19 @@ This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE) fo
 
 Reference inference adapters may call external model repositories that are not vendored here. See [inference_demos/README.md](inference_demos/README.md) for original repository links and citation/license notes.
 
+## Star History
+
+<p align="center">
+  <a href="https://www.star-history.com/#EmbodiedCity/iWorld-Bench&Date">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=EmbodiedCity%2FiWorld-Bench&type=Date&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=EmbodiedCity%2FiWorld-Bench&type=Date">
+      <img alt="Star history chart for EmbodiedCity/iWorld-Bench" src="https://api.star-history.com/svg?repos=EmbodiedCity%2FiWorld-Bench&type=Date">
+    </picture>
+  </a>
+</p>
+
+
 ## Citation
 
 If you find iWorldBench useful for your research, please cite:
